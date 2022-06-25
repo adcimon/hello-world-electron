@@ -1,0 +1,14 @@
+{
+  "name": "hello-world-electron",
+  "version": "1.0.0",
+  "description": "Hello World",
+  "main": "src/main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "adcimon",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^19.0.6"
+  }
+}
